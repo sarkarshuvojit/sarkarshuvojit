@@ -8,4 +8,14 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+Total Time: 9 hrs 57 mins
+
+Go            4 hrs 45 mins   ████████████░░░░░░░░░░░░░   47.74 %
+TypeScript    2 hrs 46 mins   ███████░░░░░░░░░░░░░░░░░░   27.82 %
+Bash          33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+YAML          24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+hyprlang      23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+```
+
 <!--END_SECTION:waka-->
