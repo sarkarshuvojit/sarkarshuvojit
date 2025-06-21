@@ -3,38 +3,28 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarkarshuvojit) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shuvojitsarkar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2976015) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sarkarshuvojit) 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2051%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 159.3 kB Used in GitHub's Storage 
- > 
-> 🏆 231 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 50 Public Repositories 
- > 
-> 🔑 40 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                626 commits         ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-🌆 Daytime                476 commits         █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-🌃 Evening                678 commits         ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-🌙 Night                  481 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+🌞 Morning                626 commits         ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+🌆 Daytime                476 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+🌃 Evening                680 commits         ████████░░░░░░░░░░░░░░░░░   30.05 % 
+🌙 Night                  481 commits         █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   330 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Monday                   330 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 Tuesday                  228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
 Wednesday                209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Thursday                 158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Friday                   298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Saturday                 483 commits         █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Sunday                   555 commits         ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+Thursday                 158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Friday                   298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Saturday                 485 commits         █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Sunday                   555 commits         ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
 ```
 
 
@@ -74,10 +64,6 @@ NSIS                     1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/sarkarshuvojit/sarkarshuvojit/master/assets/bar_graph.png)
-
-
- Last Updated on 21/06/2025 18:16:17 UTC
+ Last Updated on 21/06/2025 18:25:46 UTC
 <!--END_SECTION:waka-->
