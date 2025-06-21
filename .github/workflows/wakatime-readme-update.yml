@@ -3,7 +3,7 @@ name: Update readme with Wakatime stats
 on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: "0 0 * * SUN"
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
