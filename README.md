@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarkarshuvojit) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shuvojitsarkar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2976015) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sarkarshuvojit) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue)
 
 **I'm a Night 🦉** 
 
@@ -34,22 +34,23 @@ Sunday                   555 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Go                       4 hrs 45 mins       ████████████░░░░░░░░░░░░░   47.74 % 
-TypeScript               2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-hyprlang                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Go                       6 hrs 50 mins       ██████████████░░░░░░░░░░░   54.12 % 
+TypeScript               2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+hyprlang                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 57 mins       █████████████████████████   100.00 % 
+Neovim                   12 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-multiship                9 hrs 6 mins        ███████████████████████░░   91.55 % 
-Unknown Project          49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-slowdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+multiship                9 hrs 57 mins       ████████████████████░░░░░   78.87 % 
+dirseq                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Unknown Project          1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+slowdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Linux                    9 hrs 57 mins       █████████████████████████   100.00 % 
+Linux                    12 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -65,5 +66,5 @@ NSIS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/06/2025 18:25:46 UTC
+ Last Updated on 22/06/2025 02:20:11 UTC
 <!--END_SECTION:waka-->
