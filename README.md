@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarkarshuvojit) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shuvojitsarkar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2976015) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sarkarshuvojit) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
@@ -34,25 +34,20 @@ Sunday                   648 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               36 mins             ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-Go                       32 mins             ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-Kotlin                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-JSON                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+TypeScript               36 mins             █████████████░░░░░░░░░░░░   52.78 % 
+Kotlin                   16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+JSON                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
 
 🔥 Editors: 
-Neovim                   1 hr 50 mins        ██████████████████████░░░   87.10 % 
-Android Studio           16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Neovim                   52 mins             ███████████████████░░░░░░   76.05 % 
+Android Studio           16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
 
 🐱‍💻 Projects: 
-signage-app              52 mins             ██████████░░░░░░░░░░░░░░░   40.95 % 
-dirseq                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Unknown Project          21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-sokuwaves                16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-webhook-load-tester      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+signage-app              52 mins             ███████████████████░░░░░░   76.05 % 
+sokuwaves                16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
 
 💻 Operating System: 
-Mac                      2 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -68,5 +63,5 @@ NSIS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2025 02:08:44 UTC
+ Last Updated on 10/07/2025 02:08:43 UTC
 <!--END_SECTION:waka-->
