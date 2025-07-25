@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarkarshuvojit) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shuvojitsarkar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2976015) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sarkarshuvojit) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
 **I'm a Night 🦉** 
 
@@ -34,24 +34,24 @@ Sunday                   719 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Go                       2 hrs 37 mins       ███████████████░░░░░░░░░░   61.44 % 
-Markdown                 38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-sh                       22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Go                       2 hrs 30 mins       ███████████████░░░░░░░░░░   60.41 % 
+Markdown                 38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+sh                       22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 17 mins       █████████████████████████   100.00 % 
+Neovim                   4 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-multiship                2 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.93 % 
-commitlore               1 hr 36 mins        █████████░░░░░░░░░░░░░░░░   37.35 % 
-Unknown Project          21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-lomboktojson             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+multiship                2 hrs 8 mins        █████████████░░░░░░░░░░░░   51.45 % 
+commitlore               1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   35.43 % 
+Unknown Project          21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+lomboktojson             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 homebrew                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Mac                      4 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -67,5 +67,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2025 02:13:23 UTC
+ Last Updated on 25/07/2025 02:13:18 UTC
 <!--END_SECTION:waka-->
