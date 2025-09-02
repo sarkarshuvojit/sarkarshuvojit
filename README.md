@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,16 +9,16 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     12 mins             █████████████████████████   100.00 % 
+HTML                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   12 mins             █████████████████████████   100.00 % 
+Neovim                   0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-classic-audio-landing    12 mins             █████████████████████████   100.00 % 
+classic-audio-landing    0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -34,5 +34,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2025 02:09:50 UTC
+ Last Updated on 02/09/2025 01:55:43 UTC
 <!--END_SECTION:waka-->
