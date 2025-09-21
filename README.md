@@ -1,5 +1,25 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2040%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in Go** 
 
@@ -14,5 +34,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2025 01:46:57 UTC
+ Last Updated on 21/09/2025 01:59:23 UTC
 <!--END_SECTION:waka-->
