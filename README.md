@@ -1,5 +1,7 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%209%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,5 +39,5 @@ Kotlin                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2025 11:18:21 UTC
+ Last Updated on 10/11/2025 02:04:26 UTC
 <!--END_SECTION:waka-->
