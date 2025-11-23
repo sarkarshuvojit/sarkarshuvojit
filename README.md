@@ -9,16 +9,16 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Rust                     19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-zellij-wakatime-plugin   19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -34,5 +34,5 @@ Kotlin                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2025 01:54:47 UTC
+ Last Updated on 23/11/2025 02:19:18 UTC
 <!--END_SECTION:waka-->
