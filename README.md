@@ -21,18 +21,18 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Go** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Go                       20 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Python                   15 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Kotlin                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Go                       20 repos            █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Python                   15 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Kotlin                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
 
 
 
- Last Updated on 14/12/2025 02:19:34 UTC
+ Last Updated on 15/12/2025 02:10:59 UTC
 <!--END_SECTION:waka-->
