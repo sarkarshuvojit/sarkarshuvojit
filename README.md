@@ -9,16 +9,17 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      13 mins             █████████████████████████   99.94 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+endeavor-climbing-app    13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -34,5 +35,5 @@ Kotlin                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/03/2026 02:50:49 UTC
+ Last Updated on 23/03/2026 02:51:06 UTC
 <!--END_SECTION:waka-->
