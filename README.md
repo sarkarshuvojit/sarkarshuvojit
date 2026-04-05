@@ -9,19 +9,16 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     8 mins              ██████████████░░░░░░░░░░░   55.10 % 
-Markdown                 4 mins              ████████░░░░░░░░░░░░░░░░░   33.41 % 
-YAML                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-endeavor-climbing-app    14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -37,5 +34,5 @@ Kotlin                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/04/2026 02:45:13 UTC
+ Last Updated on 05/04/2026 03:21:34 UTC
 <!--END_SECTION:waka-->
