@@ -9,34 +9,36 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 mins              ████████░░░░░░░░░░░░░░░░░   31.10 % 
-TOML                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-Markdown                 3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-JSON                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Dart                     27 mins             ███████████████░░░░░░░░░░   58.60 % 
+Python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+TOML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 
 🔥 Editors: 
-Claude Code              15 mins             █████████████████████████   100.00 % 
+Claude Code              47 mins             █████████████████████████   99.56 % 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🐱‍💻 Projects: 
-009-climbing-vdo-slicer  15 mins             █████████████████████████   100.00 % 
+endeavor-climbing-app    31 mins             █████████████████░░░░░░░░   66.59 % 
+009-climbing-vdo-slicer  15 mins             ████████░░░░░░░░░░░░░░░░░   33.41 % 
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+Mac                      47 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
 
 ```text
-Go                       21 repos            █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-JavaScript               14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Kotlin                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Go                       21 repos            █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+JavaScript               14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Dart                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Kotlin                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 
 
 
- Last Updated on 09/04/2026 02:53:06 UTC
+ Last Updated on 10/04/2026 03:25:16 UTC
 <!--END_SECTION:waka-->
