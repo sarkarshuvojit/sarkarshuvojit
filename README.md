@@ -1,25 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2021%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in Go** 
 
@@ -34,5 +14,5 @@ Kotlin                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 04:02:35 UTC
+ Last Updated on 18/05/2026 04:15:26 UTC
 <!--END_SECTION:waka-->
