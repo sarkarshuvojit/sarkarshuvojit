@@ -3,6 +3,24 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -16,5 +34,5 @@ Kotlin                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2026 04:25:56 UTC
+ Last Updated on 01/06/2026 04:57:31 UTC
 <!--END_SECTION:waka-->
